@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5196971-87ef-4ef7-a2b2-59deaf509b21" name="Changes" comment="2nd homework done!" />
+    <list default="true" id="b5196971-87ef-4ef7-a2b2-59deaf509b21" name="Changes" comment="all_hw_done!">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -320,7 +322,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679161540706</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="all_hw_done!">
+      <created>1681793697182</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681793697182</updated>
+    </task>
+    <task id="LOCAL-00004" summary="all_hw_done!">
+      <created>1681793714746</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681793714746</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -349,6 +365,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="1st homework done!" />
-    <option name="LAST_COMMIT_MESSAGE" value="1st homework done!" />
+    <MESSAGE value="all_hw_done!" />
+    <option name="LAST_COMMIT_MESSAGE" value="all_hw_done!" />
   </component>
 </project>
